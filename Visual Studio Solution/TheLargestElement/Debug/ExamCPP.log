@@ -1,0 +1,2 @@
+﻿  ExamCPP.cpp
+c:\users\pavka\source\repos\examcpp\examcpp\examcpp.cpp(3): fatal error C1083: Cannot open include file: 'utf8.h': No such file or directory

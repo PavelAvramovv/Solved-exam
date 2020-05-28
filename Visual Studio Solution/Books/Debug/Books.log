@@ -1,0 +1,4 @@
+﻿  Books.cpp
+c:\users\pavka\source\repos\examcpp\books\books.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavka\source\repos\examcpp\books\books.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  Books.vcxproj -> C:\Users\pavka\source\repos\ExamCPP\Debug\Books.exe
